@@ -1,0 +1,11 @@
+﻿  Block.cpp
+  Bomb.cpp
+  Gotoxy.cpp
+  Joker.cpp
+  main.cpp
+c:\users\user\source\repos\tetrispartb\tetrispartb\main.cpp(13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Point.cpp
+  Shape.cpp
+  TetrisGame.cpp
+  Generating Code...
+  TetrisPartB.vcxproj -> C:\Users\USER\source\repos\TetrisPartB\Debug\TetrisPartB.exe
